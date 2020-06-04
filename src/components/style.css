@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: rgba(224, 197, 252, 0.637);
+}
